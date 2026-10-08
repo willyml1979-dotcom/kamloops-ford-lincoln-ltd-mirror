@@ -1,6 +1,6 @@
 {
   "dealership": "Kamloops Ford Lincoln Ltd",
-  "generated_at": "2026-09-24T15:50:06",
+  "generated_at": "2026-10-08T14:39:46",
   "vehicle_count": 54,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2015-ford-f-150-lariat-id15399506.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:26:41",
       "odometer_km": 94769,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2015ToyotaCorollaS (M6) 4dr Sedan",
@@ -25,7 +27,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2015-toyota-corolla-s-id15396654.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:26:55",
       "odometer_km": 138882,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2017FordEdgeTitanium 4dr All-Wheel Drive",
@@ -36,7 +40,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2017-ford-edge-titanium-id15396655.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:27:08",
       "odometer_km": 83421,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2018Land RoverDiscovery SportHSE 4dr All-Wheel Drive",
@@ -47,7 +53,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2018-land-rover-discovery-sport-hse-id15376028.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:27:23",
       "odometer_km": 126420,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2019NissanMuranoPlatinum 4dr All-Wheel Drive",
@@ -58,7 +66,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2019-nissan-murano-platinum-id15387269.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:27:37",
       "odometer_km": 92689,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2020JeepCherokeeTrailhawk 4dr 4x4",
@@ -69,7 +79,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2020-jeep-cherokee-trailhawk-id15354501.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:27:51",
       "odometer_km": 70690,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2020ToyotaCamrySE 4dr All-Wheel Drive Sedan",
@@ -80,7 +92,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2020-toyota-camry-se-id15361380.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:28:04",
       "odometer_km": 61985,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2021FordEscapeSEL Hybrid 4dr All-Wheel Drive",
@@ -91,7 +105,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2021-ford-escape-sel-hybrid-id15363118.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:28:17",
       "odometer_km": 151870,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2021FordF-150XLT 4x4 SuperCrew Cab Styleside 5.5 ft. box",
@@ -102,7 +118,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2021-ford-f-150-xlt-id15393930.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:28:30",
       "odometer_km": 83871,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
@@ -113,7 +131,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2022-ford-f-150-xlt-id15361378.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:28:43",
       "odometer_km": 47632,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2022FordMaverickXLT All-Wheel Drive SuperCrew 4.5 ft. box",
@@ -124,7 +144,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2022-ford-maverick-xlt-id15396747.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:28:58",
       "odometer_km": 74965,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2023FordBronco SportBadlands 4dr 4x4",
@@ -135,7 +157,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-bronco-sport-badlands-id15354589.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:29:12",
       "odometer_km": 95337,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2023FordBronco SportBig Bend 4dr 4x4",
@@ -146,7 +170,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-bronco-sport-big-bend-id15382723.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:29:26",
       "odometer_km": 45501,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2023FordBronco SportOuter Banks 4dr 4x4",
@@ -157,7 +183,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-bronco-sport-outer-banks-id15377775.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:29:38",
       "odometer_km": 59723,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2023FordF-150XL 4x4 SuperCrew Cab 6.5 ft. box",
@@ -168,7 +196,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-f-150-xl-id15288193.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:29:51",
       "odometer_km": 121424,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2023FordF-150XLT 4x4 SuperCab 6.5 ft. box",
@@ -179,7 +209,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-f-150-xlt-id15408508.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:30:04",
       "odometer_km": 61946,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024FordExpeditionLimited 4dr 4x4",
@@ -190,7 +222,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2024-ford-expedition-limited-id15403217.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:30:17",
       "odometer_km": 42603,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
@@ -201,7 +235,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2024-ford-f-150-xlt-id15206019.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:30:32",
       "odometer_km": 57043,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024FordF-350Lariat 4x4 SD Crew Cab 8 ft. box SRW",
@@ -212,7 +248,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2024-ford-f-350-lariat-id15348327.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:30:46",
       "odometer_km": 22258,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2024MazdaCX-50GT w/Turbo 4dr All-Wheel Drive Sport Utility",
@@ -223,7 +261,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2024-mazda-cx-50-gt-wturbo-id15396746.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:30:58",
       "odometer_km": 26615,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025FordEscapeActive 4dr Front-Wheel Drive",
@@ -234,7 +274,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-escape-active-id13987162.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:31:12",
       "odometer_km": 64470,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025FordEscapePlatinum 4dr All-Wheel Drive",
@@ -245,7 +287,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-escape-platinum-id15190706.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:31:25",
       "odometer_km": 39826,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025FordF-350Platinum 4x4 SD Crew Cab 6.75 ft. box SRW",
@@ -256,7 +300,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-f-350-platinum-id15354592.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:31:37",
       "odometer_km": 16505,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025FordMaverickXLT All-Wheel Drive SuperCrew 4.5 ft. box",
@@ -266,7 +312,9 @@
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-maverick-xlt-id15354591.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-maverick-xlt-id15354591.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:31:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025ToyotaTacoma",
@@ -277,7 +325,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-toyota-tacoma-base-id15384863.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:32:04",
       "odometer_km": 29240,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FordBroncoRaptor 4dr 4x4",
@@ -288,7 +338,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2026-ford-bronco-raptor-id15380255.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:32:17",
       "odometer_km": 2565,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026VolkswagenTiguanHighline Turbo R-Line 4dr All-Wheel Drive 4MOTION",
@@ -299,7 +351,9 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2026-volkswagen-tiguan-highline-turbo-r-line-id15384938.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:32:31",
       "odometer_km": 10757,
-      "condition": "used"
+      "condition": "used",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2025FORDESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
@@ -311,7 +365,9 @@
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2025-ford-escape-phev-id15391374.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:33:20",
       "odometer_km": 18566,
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBADLANDS 4DR 4X4",
@@ -322,7 +378,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-badlands-id15090026.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-badlands-id15090026.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:33:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBADLANDS 4DR 4X4",
@@ -333,7 +391,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-badlands-id15396714.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-badlands-id15396714.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:33:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -344,7 +404,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id14737737.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id14737737.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:34:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -355,7 +417,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15017547.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15017547.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:34:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -366,7 +430,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15017549.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15017549.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:34:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -377,7 +443,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15090029.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15090029.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:34:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -388,7 +456,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15090031.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15090031.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:34:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -399,7 +469,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15206007.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15206007.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:35:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -410,7 +482,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15281617.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15281617.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:35:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
@@ -421,7 +495,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15281618.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15281618.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:35:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
@@ -432,7 +508,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15341469.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15341469.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:35:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
@@ -443,7 +521,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id14737742.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id14737742.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:36:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
@@ -454,7 +534,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id14770671.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id14770671.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:36:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
@@ -465,7 +547,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15136415.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15136415.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:36:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
@@ -476,7 +560,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15136416.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15136416.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:36:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
@@ -487,7 +573,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15206008.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15206008.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:36:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
@@ -498,7 +586,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15281619.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15281619.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:37:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXL ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (101A)",
@@ -509,7 +599,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xl-id15206012.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xl-id15206012.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:37:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
@@ -520,7 +612,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15090035.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15090035.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:37:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
@@ -531,7 +625,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15090037.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15090037.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:37:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
@@ -542,7 +638,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15136451.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15136451.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:38:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
@@ -553,7 +651,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15161598.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15161598.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:38:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
@@ -564,7 +664,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15206014.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15206014.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:38:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
@@ -575,7 +677,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15309073.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15309073.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:38:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDRANGERXL 4X4 SUPERCREW 5 FT. BOX (100A)",
@@ -586,7 +690,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xl-id15069404.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xl-id15069404.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:39:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     },
     {
       "name": "2026FORDRANGERXL 4X4 SUPERCREW 5 FT. BOX (100A)",
@@ -597,7 +703,9 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xl-id15136411.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xl-id15136411.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T13:39:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
     }
   ]
 }
