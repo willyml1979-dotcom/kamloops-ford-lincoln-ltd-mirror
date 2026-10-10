@@ -1,7 +1,7 @@
 {
   "dealership": "Kamloops Ford Lincoln Ltd",
-  "generated_at": "2026-10-09T10:14:39",
-  "vehicle_count": 714,
+  "generated_at": "2026-10-10T09:14:49",
+  "vehicle_count": 708,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/88703aa1abdd.html",
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2013-ford-f-150-platinum-id15429478.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2013-ford-f-150-platinum-id15429478.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:19:21",
+      "last_verified": "2026-10-10T09:11:44",
       "odometer_km": 142670,
       "condition": "used",
       "city": "Kamloops",
@@ -116,7 +116,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/71320a5371db.html",
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2017-ram-1500-laramie-id15332768.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2017-ram-1500-laramie-id15332768.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:21:07",
+      "last_verified": "2026-10-10T09:13:33",
       "odometer_km": 111820,
       "condition": "used",
       "city": "Kamloops",
@@ -129,7 +129,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/33fbc13a0f02.html",
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2018-ford-f-150-xl-id15419646.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2018-ford-f-150-xl-id15419646.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:21:19",
+      "last_verified": "2026-10-10T09:13:48",
       "odometer_km": 162623,
       "condition": "used",
       "city": "Kamloops",
@@ -142,21 +142,8 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/8c19d1b876ac.html",
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2018-gmc-sierra-1500-denali-id15415633.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2018-gmc-sierra-1500-denali-id15415633.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:21:32",
+      "last_verified": "2026-10-10T09:14:02",
       "odometer_km": 154496,
-      "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2018Land RoverDiscovery SportHSE 4dr All-Wheel Drive",
-      "vin": "SALCR2RX1JH746290",
-      "stock": "PT096",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/e0c2192a8cf6.html",
-      "source_url": "https://www.kamloopsford.ca/used/vehicle/2018-land-rover-discovery-sport-hse-id15376028.htm",
-      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2018-land-rover-discovery-sport-hse-id15376028.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:40:41",
-      "odometer_km": 126420,
       "condition": "used",
       "city": "Kamloops",
       "province": "BC"
@@ -181,7 +168,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/812426dabb06.html",
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2019-mazda-cx-3-gt-id15438108.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2019-mazda-cx-3-gt-id15438108.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:22:16",
+      "last_verified": "2026-10-10T09:14:40",
       "odometer_km": 73681,
       "condition": "used",
       "city": "Kamloops",
@@ -474,19 +461,6 @@
       "province": "BC"
     },
     {
-      "name": "2022FordEscapeSE 4dr All-Wheel Drive",
-      "vin": "1FMCU9G69NUA21036",
-      "stock": "QT697A",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/5ae725400d5f.html",
-      "source_url": "https://www.kamloopsford.ca/used/vehicle/2022-ford-escape-se-id15429477.htm",
-      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2022-ford-escape-se-id15429477.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:26:47",
-      "odometer_km": 144453,
-      "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
       "name": "2022FordF-150XLT 4x4 SuperCrew Cab 5.5 ft. box",
       "vin": "1FTEW1EPXNKE51321",
       "stock": "26P143",
@@ -539,19 +513,6 @@
       "province": "BC"
     },
     {
-      "name": "2022KiaSeltosLX 4dr All-Wheel Drive",
-      "vin": "KNDEPCAA3N7297354",
-      "stock": "6T0127A",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/a446ec86a520.html",
-      "source_url": "https://www.kamloopsford.ca/used/vehicle/2022-kia-seltos-lx-id15254897.htm",
-      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2022-kia-seltos-lx-id15254897.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:27:28",
-      "odometer_km": 57633,
-      "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
       "name": "2022KiaSorento2.5T SX w/Black Leather 4dr All-Wheel Drive",
       "vin": "5XYRKDLF8NG101684",
       "stock": "7E0031A",
@@ -599,19 +560,6 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-bronco-everglades-id15405854.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T07:28:25",
       "odometer_km": 63110,
-      "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2023FordBronco SportBadlands 4dr 4x4",
-      "vin": "3FMCR9D99PRD91798",
-      "stock": "26P142",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/dd7fb44f1dc4.html",
-      "source_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-bronco-sport-badlands-id15354589.htm",
-      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2023-ford-bronco-sport-badlands-id15354589.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:42:06",
-      "odometer_km": 95337,
       "condition": "used",
       "city": "Kamloops",
       "province": "BC"
@@ -1110,19 +1058,6 @@
       "province": "BC"
     },
     {
-      "name": "2025FordEscapePlatinum 4dr All-Wheel Drive",
-      "vin": "1FMCU9JA0SUB05559",
-      "stock": "26P096",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/86683c387e23.html",
-      "source_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-escape-platinum-id15190706.htm",
-      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-ford-escape-platinum-id15190706.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:43:46",
-      "odometer_km": 39826,
-      "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
       "name": "2025FordEscapeST-Line Elite 4dr All-Wheel Drive",
       "vin": "1FMCU9PA7SUA74544",
       "stock": "PT089",
@@ -1170,19 +1105,6 @@
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-honda-cr-v-lx-id15405046.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T07:36:43",
       "odometer_km": 75246,
-      "condition": "used",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2025JeepGrand Cherokee LSummit 4dr 4x4",
-      "vin": "1C4RJKEG4S8742914",
-      "stock": "TT604A",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/2dd230724d1e.html",
-      "source_url": "https://www.kamloopsford.ca/used/vehicle/2025-jeep-grand-cherokee-l-summit-id15308912.htm",
-      "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2025-jeep-grand-cherokee-l-summit-id15308912.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T07:36:56",
-      "odometer_km": 6087,
       "condition": "used",
       "city": "Kamloops",
       "province": "BC"
@@ -1402,7 +1324,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/used/17f95d45748d.html",
       "source_url": "https://www.kamloopsford.ca/used/vehicle/2026-volkswagen-tiguan-highline-turbo-r-line-id15384938.htm",
       "dealer_url": "https://www.kamloopsford.ca/used/vehicle/2026-volkswagen-tiguan-highline-turbo-r-line-id15384938.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T13:32:31",
+      "last_verified": "2026-10-10T09:11:30",
       "odometer_km": 10757,
       "condition": "used",
       "city": "Kamloops",
