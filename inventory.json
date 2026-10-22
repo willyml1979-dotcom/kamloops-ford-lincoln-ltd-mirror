@@ -1,7 +1,7 @@
 {
   "dealership": "Kamloops Ford Lincoln Ltd",
-  "generated_at": "2026-10-21T19:24:41",
-  "vehicle_count": 761,
+  "generated_at": "2026-10-21T20:43:32",
+  "vehicle_count": 770,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1853,6 +1853,19 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDBRONCO2DR 4X4 (101A)",
+      "vin": "1FMDE6AH2TLB78954",
+      "stock": "E6A7895",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/cf53e680eb4b.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-base-id15458461.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-base-id15458461.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:36:03",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDBRONCOBIG BEND 4DR 4X4 (222A)",
       "vin": "1FMDE7BHXTLA51728",
       "stock": "0G6129",
@@ -2100,6 +2113,19 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDBRONCOOUTER BANKS 4DR 4X4 (314A)",
+      "vin": "1FMEE8BP3TLB68956",
+      "stock": "E8B6895",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/9db172de1afa.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-outer-banks-id15458462.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-outer-banks-id15458462.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:36:16",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDBRONCORAPTOR 4DR 4X4 (374A)",
       "vin": "1FMEE0RR3TLB13867",
       "stock": "XT654",
@@ -2256,19 +2282,6 @@
       "province": "BC"
     },
     {
-      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
-      "vin": "3FMCR9BNXTRF11599",
-      "stock": "0S6491",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/c810763979f2.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15206007.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15206007.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T10:13:09",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
       "vin": "3FMCR9BN7TRE50826",
       "stock": "2026",
@@ -2342,6 +2355,45 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15451177.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15451177.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T15:19:33",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
+      "vin": "3FMCR9BN9TRF23839",
+      "stock": "26BS383",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/cf8cb54af653.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15459097.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15459097.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:36:31",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
+      "vin": "3FMCR9BNXTRF11599",
+      "stock": "26BS159",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/6c34983637b8.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15459103.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15459103.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:36:45",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
+      "vin": "3FMCR9BN5TRF34398",
+      "stock": "26BS439",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/43e0fdfcfb0b.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15459106.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-big-bend-id15459106.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:36:59",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2563,7 +2615,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/8e48c2599ac4.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15439000.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-bronco-sport-outer-banks-id15439000.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:14:20",
+      "last_verified": "2026-10-21T20:40:10",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2576,7 +2628,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/d7560af7de38.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15069391.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15069391.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:14:34",
+      "last_verified": "2026-10-21T20:40:22",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2589,7 +2641,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/2586f1f76d3e.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15069392.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15069392.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:14:49",
+      "last_verified": "2026-10-21T20:40:37",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2602,7 +2654,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/0c9ec8899f4c.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15069393.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15069393.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:15:02",
+      "last_verified": "2026-10-21T20:40:51",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2615,7 +2667,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/492e08e0f415.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15309087.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15309087.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:15:31",
+      "last_verified": "2026-10-21T20:41:06",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2628,7 +2680,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/332c21a67d8a.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15410540.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15410540.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:15:58",
+      "last_verified": "2026-10-21T20:41:20",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2641,7 +2693,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/90f470978647.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15410541.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15410541.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:16:13",
+      "last_verified": "2026-10-21T20:41:35",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2654,7 +2706,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/2e66ecca0b67.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15410543.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-active-id15410543.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:16:26",
+      "last_verified": "2026-10-21T20:41:49",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2667,7 +2719,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/bd1e064c2f19.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id14947269.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id14947269.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:16:40",
+      "last_verified": "2026-10-21T20:42:02",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2680,7 +2732,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/898c5dd751d3.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id14953999.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id14953999.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:16:54",
+      "last_verified": "2026-10-21T20:42:16",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2693,7 +2745,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/6288dc4d2945.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id14991226.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id14991226.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:17:09",
+      "last_verified": "2026-10-21T20:42:30",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2706,7 +2758,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/c1fc3e51526e.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id15101102.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-id15101102.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:17:22",
+      "last_verified": "2026-10-21T20:42:44",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2719,7 +2771,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/297946e230bf.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id14976915.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id14976915.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:17:36",
+      "last_verified": "2026-10-21T20:42:59",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2732,7 +2784,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/e394cb0a2cf3.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15047792.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15047792.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:17:48",
+      "last_verified": "2026-10-21T20:43:14",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2745,7 +2797,7 @@
       "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/2e6bb662ecaa.html",
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15130329.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15130329.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:18:02",
+      "last_verified": "2026-10-21T20:43:26",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -2785,6 +2837,19 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15431103.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15431103.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T08:18:45",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDEXPLORERST-LINE 4DR 4X4 (300A)",
+      "vin": "1FMUK8KH5TGB97686",
+      "stock": "0B6500",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/7ca84257ac27.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15456193.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-explorer-st-line-id15456193.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:37:12",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -3496,6 +3561,32 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW5L81TKD63780",
+      "stock": "26F3780",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/697a4c2ce255.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-lariat-id15457161.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-lariat-id15457161.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:37:27",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "vin": "1FTFW5LD3TFC29083",
+      "stock": "TT751",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/7f60af5c2970.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-lariat-id15457515.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-lariat-id15457515.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:37:40",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
       "vin": "1FTFW7L80TFA87841",
       "stock": "26F7841",
@@ -3569,32 +3660,6 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-platinum-id15412901.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-platinum-id15412901.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T08:30:00",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
-      "vin": "1FTFW7LD4TFB45799",
-      "stock": "26F5799",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/0ecbf49942d0.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-platinum-id15443577.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-platinum-id15443577.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:51:33",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
-      "vin": "1FTFW1RG0TFB83643",
-      "stock": "TT637",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/95430c14fb91.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-raptor-id15310759.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-raptor-id15310759.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T08:30:14",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -4650,6 +4715,19 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id14923252.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id14923252.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T08:46:35",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (303A)",
+      "vin": "1FTFW3LD5TFA42433",
+      "stock": "2026",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/d6a13ec11f01.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id14941434.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id14941434.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:37:53",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -6294,6 +6372,32 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L5XTFC26369",
+      "stock": "26F6369",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/7482311da1a7.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id15459091.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id15459091.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:38:07",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L54TFC25069",
+      "stock": "26F5069",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/861e11d3ca27.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id15459104.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-150-xlt-id15459104.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:38:23",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDF-250XL 4X4 SD CREW CAB 6.75 FT. BOX (600A)",
       "vin": "1FT8W2BA4TEE79730",
       "stock": "2026",
@@ -6486,19 +6590,6 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-350-xl-id15069405.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-350-xl-id15069405.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T09:13:23",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDF-350XL 4X4 SD CREW CAB 6.75 FT. BOX SRW (610A)",
-      "vin": "1FT8W3BA6TEE95305",
-      "stock": "W3B347B",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/77fbecfda13d.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-350-xl-id15069406.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-f-350-xl-id15069406.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:13:36",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -6738,6 +6829,19 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDMAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "vin": "3FTTW8SA4TRB57566",
+      "stock": "26MA756",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/6bccea76d54d.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-lariat-id15459090.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-lariat-id15459090.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:38:35",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDMAVERICKLOBO HIGH ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
       "vin": "3FTCW8PA0TRB27120",
       "stock": "26MA712",
@@ -6837,19 +6941,6 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id14825030.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id14825030.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T09:19:16",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
-      "vin": "3FTTW8JA5TRA47739",
-      "stock": "W8J4773",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/00d8d0cea118.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15027920.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15027920.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:19:29",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -6972,19 +7063,6 @@
       "province": "BC"
     },
     {
-      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
-      "vin": "3FTTW8J38TRB27912",
-      "stock": "W8J2791",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/2b0df5dffc5b.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15443516.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15443516.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:00:06",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
       "name": "2026FORDMAVERICKXLT FRONT-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
       "vin": "3FTTW8H38TRA97784",
       "stock": "26MA778",
@@ -6993,6 +7071,19 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15446348.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15446348.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T11:00:20",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "vin": "3FTTW8J38TRB27571",
+      "stock": "26MA275",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/c493f1e77149.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15457163.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-maverick-xlt-id15457163.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:38:48",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -7650,6 +7741,19 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
+      "vin": "3FMTK3S58TMA24481",
+      "stock": "K3S2448",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/f0fc2acd2b16.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-mustang-mach-e-premium-id15457559.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-mustang-mach-e-premium-id15457559.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:39:01",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDMUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
       "vin": "3FMTK1S56TMA12589",
       "stock": "0E6218",
@@ -7775,6 +7879,19 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-mustang-mach-e-select-id15403902.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-mustang-mach-e-select-id15403902.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T09:34:56",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
+      "vin": "3FMTK1S52TMA24688",
+      "stock": "K1S2468",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/48ee48d7c9aa.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-mustang-mach-e-select-id15405920.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-mustang-mach-e-select-id15405920.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:39:15",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -8261,6 +8378,32 @@
       "province": "BC"
     },
     {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR9TLE54098",
+      "stock": "RT752",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/401b3722297b.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-raptor-id15457514.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-raptor-id15457514.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:39:30",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR2TLE57649",
+      "stock": "2026",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/9516bd033f5c.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-raptor-id15458463.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-raptor-id15458463.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:39:44",
+      "condition": "new",
+      "city": "Kamloops",
+      "province": "BC"
+    },
+    {
       "name": "2026FORDRANGERXL 4X4 SUPERCREW 5 FT. BOX (100A)",
       "vin": "1FTER4PH3TLE70198",
       "stock": "R4PI851",
@@ -8360,19 +8503,6 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15206900.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15206900.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T09:44:54",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX",
-      "vin": "1FTER4HH8TLE31783",
-      "stock": "26R1783",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/8010572291be.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15240616.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15240616.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T09:45:09",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -8542,19 +8672,6 @@
       "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15430231.htm",
       "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15430231.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T11:01:23",
-      "condition": "new",
-      "city": "Kamloops",
-      "province": "BC"
-    },
-    {
-      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (300A)",
-      "vin": "1FTER4HH0TLE53924",
-      "stock": "RT741",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/6173feb29adc.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15455412.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2026-ford-ranger-xlt-id15455412.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:42:58",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
@@ -9470,14 +9587,14 @@
       "province": "BC"
     },
     {
-      "name": "2027FORDF-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW",
-      "vin": "1FT8W3BM8VEC18555",
-      "stock": "27F8555",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/72e22ed3cc67.html",
-      "source_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-f-350-platinum-id15392190.htm",
-      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-f-350-platinum-id15392190.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:02:30",
+      "name": "2027FORDF-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW (618A)",
+      "vin": "1FT8W3BM2VEC65936",
+      "stock": "MV019",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/kamloops-ford-lincoln-ltd-mirror/new/f9ad1b90315c.html",
+      "source_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-f-350-lariat-id15457513.htm",
+      "dealer_url": "https://www.kamloopsford.ca/new/vehicle/2027-ford-f-350-lariat-id15457513.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:39:56",
       "condition": "new",
       "city": "Kamloops",
       "province": "BC"
